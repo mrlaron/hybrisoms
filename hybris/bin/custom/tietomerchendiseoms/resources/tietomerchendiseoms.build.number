@@ -1,0 +1,11 @@
+#Ant properties
+#Mon Sep 28 20:14:11 CEST 2015
+builddate=20150928 2014
+description=tietomerchendiseoms
+group.id=de.hybris.platform
+module.name=platform-module
+name=tietomerchendiseoms
+releasedate=20150915 1444
+vendor=hybris
+version=5.7.0.0-SNAPSHOT
+version.api=5.7.0
